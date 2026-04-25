@@ -26,6 +26,11 @@ cd kernel/scripts && ./claude-setup.sh
 cd ../systemd/scripts && ./claude-setup.sh
 ```
 
+## Setup Script Paths
+
+- Kernel setup script: `kernel/scripts/claude-setup.sh`
+- systemd setup script: `systemd/scripts/claude-setup.sh`
+
 ## Available Commands
 
 | Project | Review | Debug | Verify |
